@@ -207,5 +207,6 @@ let hours = +prompt ('Час?', +'')
 
 let minutes
 let seconds
+let test
 
  
